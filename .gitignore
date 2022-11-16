@@ -12,3 +12,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+Content/OceanEnvironmentPack/Textures/LandscapeTextures/T_Landscape_Shells_Dif.uasset
+Content/OceanEnvironmentPack/Textures/LandscapeTextures/T_Landscape_Shells_Norm.uasset
+Content/OceanEnvironmentPack/Textures/LandscapeTextures/T_SandBasic_Dif.uasset
+Content/UltraDynamicSky/Textures/Sky/Real_Stars.uasset
