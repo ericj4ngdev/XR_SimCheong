@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.simcheong-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "G:/GitHub/XR_SimCheong/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/XR_SimCheong-Develop/XR_SimCheong-Develop/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
